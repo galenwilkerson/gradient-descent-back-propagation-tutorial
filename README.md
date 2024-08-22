@@ -3,15 +3,14 @@
 Welcome to the Gradient Descent and Back-Propagation Tutorial repository! This repository contains a Jupyter Notebook that explores various gradient descent optimization methods and their applications in training machine learning models. The notebook is designed to help users understand how these methods work, how they differ, and how to visualize their performance using learning curves.
 
 <p align="center">
-  <img src="gradient_descent.png" alt="Gradient Descent Paths" height="400px">
-  <img src="learning_curves.png" alt="Learning Curves" height="400px">
-</p>
-
-<p align="center">
-  <em>Gradient Descent Paths: This plot shows the paths taken by different gradient descent methods as they converge toward the minimum of the loss function.</em>
-</p>
-<p align="center">
-  <em>Learning Curves: This plot illustrates the learning curves of each gradient descent method, showing how quickly each method reduces the loss function over time.</em>
+  <div style="display: inline-block;">
+    <img src="gradient_descent.png" alt="Gradient Descent Paths" height="400px">
+    <p align="center"><em>Gradient Descent Paths: This plot shows the paths taken by different gradient descent methods as they converge toward the minimum of the loss function.</em></p>
+  </div>
+  <div style="display: inline-block; margin-left: 20px;">
+    <img src="learning_curves.png" alt="Learning Curves" height="400px">
+    <p align="center"><em>Learning Curves: This plot illustrates the learning curves of each gradient descent method, showing how quickly each method reduces the loss function over time.</em></p>
+  </div>
 </p>
 
 ## Overview
