@@ -3,8 +3,8 @@
 Welcome to the Gradient Descent and Back-Propagation Tutorial repository! This repository contains a Jupyter Notebook that explores various gradient descent optimization methods and their applications in training machine learning models. The notebook is designed to help users understand how these methods work, how they differ, and how to visualize their performance using learning curves.
 
 <p align="center">
-  <img src="gradient_descent.png" alt="Gradient Descent Paths" height="400px">
-  <img src="learning_curves.png" alt="Learning Curves" height="400px">
+  <img src="gradient_descent.png" alt="Gradient Descent Paths" height="300px">
+  <img src="learning_curves.png" alt="Learning Curves" height="300px">
 </p>
 
 <p align="center">
