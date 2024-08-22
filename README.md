@@ -5,13 +5,13 @@ Welcome to the Gradient Descent and Back-Propagation Tutorial repository! This r
 <p align="center">
   <img src="gradient_descent.png" alt="Gradient Descent Paths" height="400px">
   <br>
-  <em>Gradient Descent Paths: This plot shows the paths taken by different gradient descent methods<br>as they converge toward the minimum of the loss function.</em>
+  <em>Gradient Descent Paths: <br>This plot shows the paths taken by different gradient descent methods<br>as they converge toward the minimum of the loss function.</em>
 </p>
 
 <p align="center">
   <img src="learning_curves.png" alt="Learning Curves" height="400px">
   <br>
-  <em>Learning Curves: This plot illustrates the learning curves of each gradient descent method,<br>showing how quickly each method reduces the loss function over time.</em>
+  <em>Learning Curves: <br>This plot illustrates the learning curves of each gradient descent method,<br>showing how quickly each method reduces the loss function over time.</em>
 </p>
 
 
